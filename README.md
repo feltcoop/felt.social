@@ -15,7 +15,7 @@ help us organize,
 and improve our communication —
 [Felt.social](https://felt.social) continues this mission
 by developing a sustainable business to
-foster communities that are effective, authentic, and humane.
+support communities that are effective, authentic, and humane.
 
 Our business is owned by a worker co-op
 and we're working to become

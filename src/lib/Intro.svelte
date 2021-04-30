@@ -8,7 +8,7 @@
 </p>
 <p>
 	Felt seeks to empower us, help us organize, and improve our communication — Felt.social continues
-	this mission by developing a sustainable business to foster communities that are effective,
+	this mission by developing a sustainable business to support communities that are effective,
 	authentic, and humane.
 </p>
 <p>
