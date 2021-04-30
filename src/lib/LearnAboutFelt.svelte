@@ -2,6 +2,6 @@
 
 <style>
 	a {
-		font-size: 32px;
+		font-size: var(--font_size_xxl);
 	}
 </style>
