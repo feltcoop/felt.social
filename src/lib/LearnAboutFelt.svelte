@@ -1,4 +1,4 @@
-<a href="/about">learn → about ← Felt</a>
+<a href="/about">learn ¿ about ? Felt</a>
 
 <style>
 	a {
