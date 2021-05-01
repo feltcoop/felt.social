@@ -54,7 +54,7 @@
 		right, Felt is tech that feels good.
 	</p>
 	<p>
-		Felt The Business makes money (or will!) by selling value to users. Mostly this is through
+		Felt The Business makes money (or will$$) by selling value to users. Mostly this is through
 		subscription services and commerce mediation like
 		<a href="https://felt.social">Felt.social</a>. We want a business model that keeps our
 		incentives aligned with our users, so we accept no revenue from third parties like advertisers.
