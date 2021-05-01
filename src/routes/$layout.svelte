@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<link rel="shortcut icon" href="favicon.png" />
+	<link rel="shortcut icon" href="/favicon.png" />
 </svelte:head>
 
 <main>
